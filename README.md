@@ -30,6 +30,8 @@ Laptop with CUDA-enabled GPU, Python
 
 
 ## Project timeline
+Check-out in Nov/Dec
+
 
 ## References
 <ol>
