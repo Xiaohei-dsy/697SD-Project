@@ -1,3 +1,3 @@
-Data preprocessing: After downloading the dataset, copy the corresponding pose.txt file to the PV folder and the Depth folder under each scene folder, and then run the process_data.py file under the PV (Depth) folder.  
+Data preprocessing: After downloading the dataset, copy the corresponding pose.txt and imu_data.txt file to the PV folder and the Depth folder under each scene folder, and then run the process_imu.py file under the PV (Depth) folder.Then run the holoset.py file under the code folder in the dataset.  
 Create train.txt, val.txt, and test.txt files respectively, and put the PV (Depth) folder paths of each scene used for train, validate, and test in the files.  
 Run the train.py file
